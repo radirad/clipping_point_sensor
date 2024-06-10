@@ -20,9 +20,11 @@ And it's done.
 # Things to buy:
 * Step-down converter 12-24V input, 5V 3A output
 <img src="images/MiniDC12-24V_5V_3A.jpg" width="100">
+
 * Arduino Nano
 * Laser sensor VL53L1X (ToF)
 <img src="images/VL53L1X.jpg" width="100">
+
 * DC5V WS2812B Led Strip 60leds/m 
 * Resistor 470 Ohm
 * JST 2Pin connector
@@ -80,4 +82,5 @@ For LED cover you can use 12mm cover from led profile for now
 # The End
 I must thank Marcin Wojcik ( https://fckit.pl ) and Rock Stopar for pushing me to finish this project.
 
-If you find this project usefull, you can support me in continuing my work here https://www.paypal.com/donate/?business=YUMQAZ7P7YHWA&no_recurring=1&currency_code=EUR
+If you find this project usefull, you can support me in continuing my work here
+ https://www.paypal.com/donate/?business=YUMQAZ7P7YHWA&no_recurring=1&currency_code=EUR
