@@ -15,7 +15,7 @@ So I've started new project that comes with guidelines as follows:
 
 And it's done. 
 
-<img src="clip_at_work.jpg" width="300">
+<img src="images/clip_at_work.jpg" width="300">
 
 # Things to buy:
 * Step-down converter 12-24V input, 5V 3A output
@@ -39,7 +39,7 @@ Simple circuit diagram.
 ![Circuit diagram](images/wiring_digram.png)
 
 Universal small PCB board is enough to assemble.
-![PCB](images/board.jpg)
+<img src="images/board.jpg" width="400">
 
 # The code
 After assembling all together using Arduino IDE code can be uploaded to device.
