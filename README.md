@@ -66,10 +66,18 @@ It is possible to see the output of sensor in Arduino IDE monitor when debug fla
 
 For some disturbence in sensor there is check for not getting siglal from it and reset if it's still.
 
+# The body
+Full 3D body project is available in 3d_prints folder
+
+![Clip mounted 1](images/clip1.jpg)
+
+![Clip mounted 2](images/clip2.jpg)
+
+For LED cover you can use 12mm cover from led profile for now
+
+![LED cover](images/led_cover.jpg)
+
 # The End
 I must thank Marcin Wojcik ( https://fckit.pl ) and Rock Stopar for pushing me to finish this project.
 
 If you find this project usefull, you can support me in continuing my work here https://www.paypal.com/donate/?business=YUMQAZ7P7YHWA&no_recurring=1&currency_code=EUR
-
-
-
