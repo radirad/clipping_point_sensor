@@ -15,14 +15,14 @@ So I've started new project that comes with guidelines as follows:
 
 And it's done. 
 
-![Clip at work](images/clip_at_work.jpg)
+![Clip at work](images/clip_at_work.jpg| width=300)
 
 # Things to buy:
 * Step-down converter 12-24V input, 5V 3A output
-![Step down converter](images/MiniDC12-24V_5V_3A.jpg)
+![Step down converter](images/MiniDC12-24V_5V_3A.jpg| width=100)
 * Arduino Nano
 * Laser sensor VL53L1X (ToF)
-![VL53L1X](images/VL53L1X.jpg)
+![VL53L1X](images/VL53L1X.jpg| width=100)
 * DC5V WS2812B Led Strip 60leds/m 
 * Resistor 470 Ohm
 * JST 2Pin connector
@@ -69,13 +69,13 @@ For some disturbence in sensor there is check for not getting siglal from it and
 # The body
 Full 3D body project is available in 3d_prints folder
 
-![Clip mounted 1](images/clip1.jpg)
+![Clip mounted 1](images/clip1.jpg| width=300)
 
-![Clip mounted 2](images/clip2.jpg)
+![Clip mounted 2](images/clip2.jpg| width=300)
 
 For LED cover you can use 12mm cover from led profile for now
 
-![LED cover](images/led_cover.jpg)
+![LED cover](images/led_cover.jpg| width=300)
 
 # The End
 I must thank Marcin Wojcik ( https://fckit.pl ) and Rock Stopar for pushing me to finish this project.
