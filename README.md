@@ -66,5 +66,10 @@ It is possible to see the output of sensor in Arduino IDE monitor when debug fla
 
 For some disturbence in sensor there is check for not getting siglal from it and reset if it's still.
 
+# The End
+I must thank Marcin Wojcik ( https://fckit.pl ) and Rock Stopar for pushing me to finish this project.
+
+If you find this project usefull, you can support me in continuing my work here https://www.paypal.com/donate/?business=YUMQAZ7P7YHWA&no_recurring=1&currency_code=EUR
+
 
 
